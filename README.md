@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @virensharma14
-- 👀 I’m interested in Computer science
-- 🌱 I’m currently learning C language and figuring out open source.
-- Trying GAME DEVELOPMENT on UNITY. 👨‍💻
+- GAME DEVELOPMENT on UNITY. 👨‍💻
 - 📫 How to reach me ...
 
 <!---
