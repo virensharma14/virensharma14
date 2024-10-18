@@ -1,5 +1,8 @@
 - 👋 Hi, I’m @virensharma14
 - Embedded Systems 👨‍💻
+- Edge AI computation on Microcontrollers
+- Cortex M4
+- Remote sensing Projects
 - 📫 How to reach me ...
 
 <!---
