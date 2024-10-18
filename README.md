@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @virensharma14
 - Embedded Systems 👨‍💻
-- Edge AI computation on Microcontrollers
+- Edge AI computation on Microcontrollers (Sipeed Maixduino-RISC V)
 - Cortex M4
 - Remote sensing Projects
 - 📫 How to reach me ...
