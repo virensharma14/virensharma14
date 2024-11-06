@@ -5,7 +5,7 @@
 - Edge AI computation on Microcontrollers (Sipeed Maixduino-RISC V)
 - Cortex M4
 - Remote sensing Projects
-- 📫 How to reach me ...
+
 
 <!---
 virensharma14/virensharma14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
