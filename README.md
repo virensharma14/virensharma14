@@ -1,14 +1,10 @@
-- 👋 Hi, I’m @virensharma14
-- Embedded Systems 👨‍💻
-- Microcontroller Related Projects
-- FreeRTOS
-- TIVA C (TM4C123GH6PM), STM32F446RE, NodeMCU, Sipeed Maixduino.
-- Edge AI computation on Microcontrollers (Sipeed Maixduino-RISC V)
-- Cortex M4
-- Remote sensing Projects
+👋 Hi, I’m @virensharma14
 
+I’m passionate about Embedded Systems and love working on a wide range of microcontroller-related projects. From hardware to software, I enjoy creating solutions that push the limits of what microcontrollers can do.
+🛠️ Key Areas of Expertise:
 
-<!---
-virensharma14/virensharma14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Microcontrollers: TIVA C (TM4C123GH6PM), STM32F446RE, NodeMCU, Sipeed Maixduino (RISC-V)
+Real-Time Operating Systems: FreeRTOS
+Edge AI: Edge AI computation on microcontrollers (especially with Sipeed Maixduino)
+Embedded Development: Working with Cortex-M4 architectures and beyond.
+Remote Sensing Projects: Building systems for real-time data collection and analysis.
