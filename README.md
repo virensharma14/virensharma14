@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @virensharma14
 - Embedded Systems 👨‍💻
 - Microcontroller Related Projects
+- FreeRTOS
 - TIVA C (TM4C123GH6PM), STM32F446RE, NodeMCU, Sipeed Maixduino.
 - Edge AI computation on Microcontrollers (Sipeed Maixduino-RISC V)
 - Cortex M4
