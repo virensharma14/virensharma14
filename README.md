@@ -24,4 +24,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=virensharma14&icon=0&color=0)](https://visitcount.itsvg.in)
 
+ORCID ID-0009-0004-0221-6814
+Scopus Author ID: 59388785700
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
