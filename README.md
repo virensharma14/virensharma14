@@ -2,6 +2,10 @@
 👋 Hi, I’m @virensharma14<br><br>I’m passionate about Embedded Systems and love working on a wide range of microcontroller-related projects. From hardware to software, I enjoy creating solutions that push the limits of what microcontrollers can do.<br> 🛠️ Key Areas of Expertise:<br>Microcontrollers: TIVA C (TM4C123GH6PM), STM32F446RE, NodeMCU, Sipeed Maixduino (RISC-V) <br>Real-Time Operating Systems: FreeRTOS <br>Edge AI: Edge AI computation on microcontrollers ( with Sipeed Maixduino) <br>Embedded Development: Working with Cortex-M4 architectures.<br>
 
 
+ORCID ID-0009-0004-0221-6814
+Scopus Author ID: 59388785700
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/viren-sharma-8b7a2522a/) 
 
@@ -24,7 +28,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=virensharma14&icon=0&color=0)](https://visitcount.itsvg.in)
 
-ORCID ID-0009-0004-0221-6814
-Scopus Author ID: 59388785700
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
